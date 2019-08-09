@@ -1,0 +1,28 @@
+{"event":"details","time":1556752197,"u":"78","run":"1.54","mem":"33.39","data":"----- Initiating master send function for BackupBuddy v8.3.0.0."}
+{"event":"details","time":1556752197,"u":"78","run":"1.54","mem":"33.39","data":"Basename file: `backup-www_bhojadda_com-2019_05_01-08_55pm-db-48x6eoxh6t.zip`. Post-send deletion: "}
+{"event":"details","time":1556752197,"u":"78","run":"1.54","mem":"33.39","data":"Created fileoptions lock file `send-3xr8g2mspmso.txt.lock` with ID: 5cca2745bf1a98.76113167."}
+{"event":"details","time":1556752197,"u":"78","run":"1.55","mem":"33.39","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1556752197,"u":"78","run":"1.55","mem":"33.40","data":"Fileoptions `send-3xr8g2mspmso.txt` saved. 856 bytes written."}
+{"event":"details","time":1556752197,"u":"78","run":"1.55","mem":"33.39","data":"Initializing destination."}
+{"event":"details","time":1556752197,"u":"78","run":"1.55","mem":"33.39","data":"Loading destination init file `\/var\/www\/html\/wp-content\/plugins\/backupbuddy\/destinations\/email\/init.php`."}
+{"event":"details","time":1556752197,"u":"79","run":"1.55","mem":"33.40","data":"Destination init loaded."}
+{"event":"details","time":1556752197,"u":"79","run":"1.55","mem":"33.40","data":"Initialized `email` destination."}
+{"event":"details","time":1556752197,"u":"79","run":"1.55","mem":"33.40","data":"Applying destination-specific defaults."}
+{"event":"details","time":1556752197,"u":"79","run":"1.55","mem":"33.40","data":"Applying global destination defaults."}
+{"event":"details","time":1556752197,"u":"79","run":"1.55","mem":"33.40","data":"Calling destination-specific send method `pb_backupbuddy_destination_email::send`."}
+{"event":"error","time":1556752197,"u":"79","run":"1.56","mem":"33.41","data":"Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array\n(\n    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.\n)\n`"}
+{"event":"details","time":1556752197,"u":"79","run":"1.56","mem":"33.41","data":"Looking for remote send log file to send in error email: `\/var\/www\/html\/wp-content\/uploads\/pb_backupbuddy\/status-remote_send-3xr8g2mspmso_xc4shd6cp84n105.txt`."}
+{"event":"details","time":1556752197,"u":"79","run":"1.56","mem":"33.41","data":"Remote send log file found. Attaching to error email."}
+{"event":"details","time":1556752197,"u":"80","run":"1.57","mem":"33.44","data":"Sending email error notification with subject `BackupBuddy Server Error - https:\/\/www.bhojadda.com` to recipient(s): `bhojadda@gmail.com`."}
+{"event":"error","time":1556752197,"u":"88","run":"1.64","mem":"34.07","data":"Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Fileoptions instance #45."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Created fileoptions lock file `send-3xr8g2mspmso.txt.lock` with ID: 5cca2745d73420.54015785."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.07","data":"Fileoptions `send-3xr8g2mspmso.txt` saved. 1144 bytes written."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Completed send function. Failure. Post-send deletion will be skipped if enabled."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"About to load fileoptions data."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Fileoptions instance #16."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Created fileoptions lock file `send-3xr8g2mspmso.txt.lock` with ID: 5cca2745d75991.35480886."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Fileoptions data loaded."}
+{"event":"details","time":1556752197,"u":"88","run":"1.64","mem":"34.06","data":"Ending send() function pass."}

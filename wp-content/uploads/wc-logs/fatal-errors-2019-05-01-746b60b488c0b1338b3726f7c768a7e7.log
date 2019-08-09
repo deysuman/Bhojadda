@@ -1,0 +1,2 @@
+2019-05-01T13:48:22+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 1052672 bytes) in /var/www/html/wp-content/plugins/backupbuddy/classes/core.php on line 3750
+

@@ -1,0 +1,1400 @@
+2019-05-12T00:26:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 1052672 bytes) in /var/www/html/wp-content/plugins/backupbuddy/classes/core.php on line 3750
+
+2019-05-12T13:50:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 1052672 bytes) in /var/www/html/wp-content/plugins/backupbuddy/classes/core.php on line 3750
+
+2019-05-12T22:02:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:05:30+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:06:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:06:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:06:53+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:07:39+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:09:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:11:02+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:13:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:13:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:15:34+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:15:49+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:20:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:21:19+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:21:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:21:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:21:55+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:24:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:25:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:30:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:53+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:54+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:55+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:55+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:58+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:32:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:00+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:00+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:02+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:02+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:07+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:07+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:33:08+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:36:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:36:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:41:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:41:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:47:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:54:24+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:55:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T22:55:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:00:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:17+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:19+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:24+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:26+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:08:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:09:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:09:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:09:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:11:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:16:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:16:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:17:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:20:38+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:22:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:23:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:23:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:24:47+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:26:34+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:26:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:27:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:34:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:30+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:34+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:38+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:39+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:47+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:49+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:52+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:53+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:54+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:43:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-login.php(12): require('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:47:36+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:26+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:49:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:50:09+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:52:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:57:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:57:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:59:08+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:59:08+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:59:08+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+
+2019-05-12T23:59:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/kleo-child/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/kleo-child/functions.php(110): file_get_contents_tcurl('http://www.haro...')
+#1 /var/www/html/wp-settings.php(479): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(99): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/kleo-child/functions.php on line 78
+

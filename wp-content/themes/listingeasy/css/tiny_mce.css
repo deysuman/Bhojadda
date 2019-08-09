@@ -1,0 +1,36 @@
+/* Tiny mce styles */
+.gt3_list_check li,
+.gt3_list_check_circle li,
+.gt3_list_check_square li,
+.gt3_list_angle_right li,
+.gt3_list_plus li{
+	padding: 0 0 5px 5px;
+    list-style: none;
+}
+.gt3_list_check li:before,
+.gt3_list_check_circle li:before,
+.gt3_list_check_square li:before,
+.gt3_list_angle_right li:before,
+.gt3_list_plus li:before{
+	content: "\f00c";
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: 1em;
+	line-height: 1em;
+	margin-right: 14px;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.gt3_list_check_circle li:before{
+	content: "\f05d";
+}
+.gt3_list_check_square li:before{
+	content: "\f046";
+}
+.gt3_list_angle_right li:before{
+	content: "\f105";
+}
+.gt3_list_plus li:before{
+	content: "\f067";
+}

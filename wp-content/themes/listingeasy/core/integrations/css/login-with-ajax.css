@@ -1,0 +1,176 @@
+/* lwa */
+.lwa{
+	margin-bottom: 0;
+}
+.account-sign-in.lwa{
+	margin-bottom: 16px;
+}
+.lwa-modal{
+	z-index: 1001;
+	display: block;
+    top: 600px;
+    opacity: 0;
+    visibility: hidden;
+}
+.lwa-modal button,
+.lwa-modal a{
+	transition: 0s !important;
+    -webkit-transition: 0s !important;
+    -moz-transition: 0s !important;
+    -ms-transition: 0s !important;
+}
+.lwa-modal form:hover button,
+.lwa-modal form:hover a{
+	transition: 400ms !important;
+    -webkit-transition: 400ms !important;
+    -moz-transition: 400ms !important;
+    -ms-transition: 400ms !important;
+}
+.lwa-modal-bg{
+	z-index: 1000;
+}
+.lwa-form{
+	display: none;
+}
+.lwa-modal .lwa-register{
+	margin-top: 0;
+}
+.lwa-form.form-visible{
+	display: block !important;
+}
+.lwa-modal-close{
+	position: relative;
+	z-index: 1;
+	top: 10px;
+    right: 14px;
+	width: 20px;
+	height: 20px;
+	color: transparent !important;
+	opacity: 0.5;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+}
+.lwa-modal-close:hover{
+	opacity: 1;
+}
+.lwa-modal-close:before,
+.lwa-modal-close:after{
+	content: '';
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 50%;
+	margin-left: -1px;
+	width: 3px;
+}
+.lwa-modal-close:after{
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+}
+.lwa-modal h3{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.lwa-modal input.input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}
+.lwa-modal input.input,
+.lwa-modal input#user_login,
+.lwa-modal input#user_email{
+	margin-bottom: 30px;
+}
+.lwa-modal .remember-me{
+	text-align: left;
+}
+.lwa-modal .remember-me .remember-me-checkbox{
+	margin-right: 10px;
+}
+.lwa-modal .remember-me label{
+	vertical-align: middle;
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 14px;
+}
+.lwa-modal .lost-password{
+	text-align: right;
+	font-size: 14px;
+}
+.lwa-submit-wrapper{
+	margin-top: 30px;
+	text-align: center;
+}
+.lwa-submit-wrapper button{
+	min-width: 50%;
+	margin-bottom: 5px;
+}
+.lwa-bottom-text{
+	text-align: center;
+	font-size: 14px;
+}
+.lwa-modal .cancel-button-wrapper{
+	text-align: center;
+}
+.lwa-modal .cancel-button-wrapper a{
+	color: #fd4851;
+}
+.lwa-modal .lwa-meta{
+	text-align: center;
+	font-size: 14px;
+	margin-top: 30px;
+}
+.lwa-status{
+	padding: 13px 25px;
+	border-radius: 22px;	
+	border: none;
+	margin-bottom: 15px;
+}
+.lwa-status.lwa-status-confirm{
+	background: #3ed376;
+	color: #ffffff;
+}
+.lwa-status.lwa-status-invalid{
+	background: #fd4851;
+    color: #ffffff;
+}
+.lwa-status a{
+	color: inherit;
+	text-decoration: underline;
+}
+@media only screen and (max-width: 600px){
+	.lwa-modal{
+		margin-left: -160px;
+		width: 280px;
+		padding: 30px 20px 34px;
+	}
+	.lwa-modal h3{
+		font-size: 24px;
+		margin-bottom: 15px;
+	}
+	.lwa-modal input.input, .lwa-modal input#user_login, .lwa-modal input#user_email{
+		margin-bottom: 20px;
+	}
+	.lwa-modal .lwa-meta{
+		margin-top: 20px;
+	}
+	.lwa-modal .remember-me{
+		text-align: center;
+	}
+	.lwa-modal .lost-password{
+		text-align: center;
+		margin-top: 10px;
+	}
+	.lwa-submit-wrapper{
+		margin-top: 20px;
+	}
+	.gt3_header_builder__login-modal_footer{
+		margin-top: 0;
+		padding: 15px 20px;
+		margin: 25px -20px -30px;
+	}
+}
+/* end lwa */

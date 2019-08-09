@@ -1,0 +1,2 @@
+2019-04-25T09:31:41+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/js_composer/include/params/iconpicker/iconpicker.php on line 38
+

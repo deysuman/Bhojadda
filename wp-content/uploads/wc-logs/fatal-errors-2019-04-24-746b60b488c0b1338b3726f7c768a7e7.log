@@ -1,0 +1,2 @@
+2019-04-24T07:13:09+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 524288 bytes) in /var/www/html/wp-content/plugins/go_pricing/includes/globals/styles.php on line 1451
+

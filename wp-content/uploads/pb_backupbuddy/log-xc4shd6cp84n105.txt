@@ -1,0 +1,56 @@
+[Apr 24, 2019 21:49:31 0-error] [bq9z7fdy3w] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[Apr 24, 2019 21:49:31 0-error] [remote_send-fmqjtfjocbr6] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[Apr 24, 2019 21:49:31 0-error] [bq9z7fdy3w] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[Apr 24, 2019 21:49:31 0-error] [remote_send-fmqjtfjocbr6] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[Apr 24, 2019 21:49:31 0-error] [bq9z7fdy3w] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "My Email" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Apr 24, 2019 21:49:31 0-error] [bq9z7fdy3w] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[Apr 25, 2019 02:11:06 0-error] [j5cya98mq0] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[Apr 25, 2019 02:11:06 0-error] [remote_send-rwkymo7i1dyn] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[Apr 25, 2019 02:11:06 0-error] [j5cya98mq0] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[Apr 25, 2019 02:11:06 0-error] [remote_send-rwkymo7i1dyn] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[Apr 25, 2019 02:11:06 0-error] [j5cya98mq0] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "My Email" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Apr 25, 2019 02:11:06 0-error] [j5cya98mq0] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 1, 2019 23:09:57 0-error] [48x6eoxh6t] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[May 1, 2019 23:09:57 0-error] [remote_send-3xr8g2mspmso] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[May 1, 2019 23:09:57 0-error] [48x6eoxh6t] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 1, 2019 23:09:57 0-error] [remote_send-3xr8g2mspmso] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 1, 2019 23:09:57 0-error] [48x6eoxh6t] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "My Email" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[May 1, 2019 23:09:57 0-error] [48x6eoxh6t] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 8, 2019 21:01:25 0-error] [sbiu54trxy] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[May 8, 2019 21:01:25 0-error] [remote_send-u9n04oi4ev7u] Error #8239823: One or more errors were encountered attempting to send. See log above for more information such as specific error numbers or the following details. `Details: Array
+(
+    [0] => Error #48933: This destination is currently disabled. Enable it under this destination's Advanced Settings.
+)
+`
+[May 8, 2019 21:01:25 0-error] [sbiu54trxy] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 8, 2019 21:01:25 0-error] [remote_send-u9n04oi4ev7u] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
+[May 8, 2019 21:01:25 0-error] [sbiu54trxy] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "My Email" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[May 8, 2019 21:01:25 0-error] [sbiu54trxy] Error #45443554: Unable to send error email with WordPress wp_mail(). Verify WordPress & Server settings.
